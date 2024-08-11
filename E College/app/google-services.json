@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576290700992",
+    "project_id": "e-college-701ab",
+    "storage_bucket": "e-college-701ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576290700992:android:39c9b0cd865b8dc1573725",
+        "android_client_info": {
+          "package_name": "com.example.ecollege"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7na2DRV0HsDtNRN69T9K-1gnKaNrRrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
