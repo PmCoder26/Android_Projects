@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myPMT</string>
+    <string name="title_activity_passenger">PassengerActivity</string>
+    <string name="title_activity_driver">DriverActivity</string>
+</resources>
